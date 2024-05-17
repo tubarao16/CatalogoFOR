@@ -1,0 +1,40 @@
+.catalogo{
+    text-align: center;
+}
+
+select {
+    width: 302px; /* largura do select */
+    height: 205px; /* altura do select */ 
+}
+input{
+    margin-top: 10px; /*margem superior para o botão */
+    padding: 5px 10px; /*preenchimento interno do botão */
+    background-color: rgb(255, 255, 255); /*cor de fundo do botão 8*/
+    color: black; /* cor de texto do botão */
+    cursor: pointer; /* cursor do mouse */
+    border-radius: 5px; /* borda arredondada do botão*/
+    text-align: center;
+  }
+  p {
+    text-align: center;
+  }
+  body {
+    background: url('pexels-dmitry-demidov-515774-3784566.jpg');
+    background-size: 145% 300%;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: white;
+}
+h3{
+  text-align: center;
+}
+form{
+  margin-top: 10%;
+}
+input{
+  border: 1px solid white;
+  background-color: rgba(255, 255, 255, 0.1);
+  border-radius: 40px;
+  color: white;
+  padding: 20px;
+}
